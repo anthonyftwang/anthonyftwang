@@ -1,6 +1,5 @@
 <div align="center">
   <br>
-  <br>
   <p><b>Hi! I'm Anthony 👋</b></p>
   <p><b>I study Software Engineering at the University of Waterloo 🍁</b></p>
   <p>
