@@ -1,5 +1,10 @@
 <div align="center">
   <br>
+  <a href="https://anthonywang.dev">
+    <img height="80" width="80" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/dolphin_1f42c.png"/>
+  </a>
+  <br>
+  <br>
   <p><b>Hi! I'm Anthony 👋</b></p>
   <p><b>I study Software Engineering at the University of Waterloo 🍁</b></p>
   <p>
